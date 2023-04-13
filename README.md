@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ... iDual App
-💬 ... loading stacks on the fly via GitHub.
+💬 ... loading stacks on the fly via DB ... later via GitHub.
 
 <!--
 **idual/iDual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
